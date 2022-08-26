@@ -1,0 +1,6 @@
+#this code is designed to tell you your age, after you have inputed your birth year.
+
+birth_year = input('what is your birth year? ')
+current_year = input('what year is this? ') 
+age = int(current_year) - int(birth_year)
+print age
