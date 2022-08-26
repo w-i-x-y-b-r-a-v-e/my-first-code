@@ -1,2 +1,2 @@
-# my-first-code
-lea
+#know your age in 2022
+
